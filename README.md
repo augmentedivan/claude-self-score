@@ -1,6 +1,11 @@
 # claude-self-score
 
-> "LLMs often 'satisfice' (accept good-enough) rather than optimize."
+<div align="center">
+
+**"LLMs often 'satisfice' (accept good-enough) rather than optimize."**
+*— Claude*
+
+</div>
 
 A Claude Code plugin that makes Claude evaluate its own work quality before declaring any task complete. Instead of accepting the first working solution, Claude scores its output against a 7-dimension rubric and improves anything that falls short.
 
