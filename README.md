@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="images/linkedin-self-score-01.png" alt="Seven dimensions of quality" width="100%">
+
 **"LLMs often 'satisfice' (accept good-enough) rather than optimize."**
 *— Claude*
 
