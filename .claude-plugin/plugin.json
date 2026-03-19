@@ -1,0 +1,5 @@
+{
+  "name": "self-score",
+  "description": "Self-evaluation skill that scores Claude's work quality on a structured rubric before declaring tasks complete.",
+  "category": "development"
+}
